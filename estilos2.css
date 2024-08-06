@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(blue-backgrounds-download-free-wallpaper-hd-images-free-photo.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 600px;
+    background-color: rgb(254, 255, 255);
+    padding: 75px;
+    text-align: center;
+    margin: 50px;
+    margin-top: 4%;
+    color: rgb(25, 70, 216);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 0px;
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100px;
+    margin: 30px 0 20px;
+    color: blue;
+
+}
+.box h2{
+   font-size: 20px;
+    letter-spacing: 3px;
+font-weight: 100px;
+    margin: 30px;
+}
